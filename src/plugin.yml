@@ -1,0 +1,7 @@
+name: Faction Menu
+main: FactionMenu.FactionMenu
+version: 1.0
+commands:
+   fm:
+      description: Bring up the factions menu.
+      usage: /fm
